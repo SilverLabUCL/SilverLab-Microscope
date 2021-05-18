@@ -12,3 +12,6 @@ https://github.com/SilverLabUCL/silverlab-aol-microscope-controller
 # AOL-Microscope API
 The SilverLab drive computation API is available in the following repository :
 https://github.com/SilverLabUCL/AOL_API
+
+# AOL Ray Model (Matlab)
+...coming soon
