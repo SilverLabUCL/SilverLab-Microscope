@@ -14,4 +14,5 @@ The SilverLab drive computation API is available in the following repository :
 https://github.com/SilverLabUCL/AOL_API
 
 # AOL Ray Model (Matlab)
-...coming soon
+The Ray model used in Valera, Neufeldt et al, 2021 is available in the following repository :
+https://github.com/SilverLabUCL/ray-model-and-scripts-for-Valera-Neufeldt-et-al
